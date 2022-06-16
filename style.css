@@ -1,0 +1,46 @@
+body{
+font-family: "roboto"
+}
+
+span{
+    color:#ff5c0f;
+}
+
+h1{
+    color:#20a8b4;
+}
+
+ul{
+   padding:0;
+}
+
+a {
+    text-decoration:none;
+    color: black;
+    width:100%;
+}
+
+button:hover {
+    background-color: #ff5c0f;
+}
+
+button{
+    background:none;
+    border:none;
+    background-color: #20a8b4;
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    color: white;
+    text-align: left;
+}
+
+.flex-container{
+    display:flexbox;
+}
+
+link href https://fonts.googleapis.com/css2?family=Roboto&display=swap rel="stylesheet"
+
+@media screen and (min-width: 768px) {
+    }
+
